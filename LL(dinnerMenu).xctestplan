@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "0F2DE78A-4833-4292-B308-67D9F68AC554",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:LL(dinnerMenu).xcodeproj",
+        "identifier" : "EACDE4D12B82553C000ED0A1",
+        "name" : "LL(dinnerMenu)Tests"
+      }
+    }
+  ],
+  "version" : 1
+}
